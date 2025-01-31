@@ -4,6 +4,8 @@
 
 This is a simple Express API endpoint that returns JSON data containing my email, the URL of this GitHub repository, and the current time in ISO format.
 
+[Hire nodejs developers](https://hng.tech/hire/nodejs-developers)
+
 - **Public base URL**: `https://hng-stage-0-task-01.onrender.com`
 - **Local base URL**: `http://localhost:3000`
 
