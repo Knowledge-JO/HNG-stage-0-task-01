@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
   res.status(200).json({
     email: "megamindtheincredible@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "",
+    github_url: "https://github.com/Knowledge-JO/HNG-stage-0-task-01",
   });
 });
 

@@ -4,7 +4,7 @@
 
 This is a simple Express API endpoint that returns JSON data containing my email, the URL of this GitHub repository, and the current time in ISO format.
 
-- **Public base URL**: `https`
+- **Public base URL**: `https://hng-stage-0-task-01.onrender.com`
 - **Local base URL**: `http://localhost:3000`
 
 ## Endpoint
@@ -16,7 +16,7 @@ This is a simple Express API endpoint that returns JSON data containing my email
   {
     "email": "megamindtheincredible@gmail.com",
     "current_datetime": "2023-10-05T12:34:56.789Z",
-    "github_url": "https://github.com/your-username/your-repo-name"
+    "github_url": "https://github.com/Knowledge-JO/HNG-stage-0-task-01"
   }
   ```
 
@@ -25,7 +25,7 @@ This is a simple Express API endpoint that returns JSON data containing my email
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Knowledge-JO/HNG-stage-0-task-01.git
    cd your-repo-name
    ```
 
@@ -47,7 +47,7 @@ This is a simple Express API endpoint that returns JSON data containing my email
 Open your browser or use a tool like Postman or cURL to visit:
 
 ```
-http://localhost:3000/
+https://hng-stage-0-task-01.onrender.com
 ```
 
 **Response**:
@@ -56,7 +56,7 @@ http://localhost:3000/
 {
   "email": "megamindtheincredible@gmail.com",
   "current_datetime": "2023-10-05T12:34:56.789Z",
-  "github_url": "https://github.com/your-username/your-repo-name"
+  "github_url": "https://github.com/Knowledge-JO/HNG-stage-0-task-01"
 }
 ```
 
